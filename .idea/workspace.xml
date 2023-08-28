@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6b35d876-b695-49ca-9b8d-4ea0c0bfd5e4" name="Changes" comment="" />
+    <list default="true" id="6b35d876-b695-49ca-9b8d-4ea0c0bfd5e4" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +66,7 @@
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.30609894" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="ReactorSettings">
     <option name="notificationShown" value="true" />
@@ -186,6 +188,9 @@
       <workItem from="1693054560651" duration="607000" />
       <workItem from="1693214147316" duration="1069000" />
       <workItem from="1693215252306" duration="626000" />
+      <workItem from="1693215903881" duration="138000" />
+      <workItem from="1693216063347" duration="21000" />
+      <workItem from="1693216101123" duration="97000" />
     </task>
     <task id="LOCAL-00001" summary="inti">
       <created>1693215803007</created>
@@ -194,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693215803007</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="inti">
+      <created>1693215965443</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693215965444</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
